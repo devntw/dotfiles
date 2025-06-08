@@ -1,0 +1,9 @@
+font-family = MesloLGS Nerd Font Mono
+font-size = 19
+background-opacity = 0.9
+theme = Argonaut
+
+keybind = command+l=text:\x0c
+keybind = command+d=text:\x04
+keybind = command+b=text:\x02
+keybind = command+n=text:\x0e  
