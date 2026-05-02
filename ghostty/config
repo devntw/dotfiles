@@ -6,4 +6,13 @@ theme = Argonaut
 keybind = command+l=text:\x0c
 keybind = command+d=text:\x04
 keybind = command+b=text:\x02
-keybind = command+n=text:\x0e  
+keybind = command+n=text:\x0e
+
+# Exit Neovim terminal insert mode
+keybind = command+escape=text:\x1c\x0e
+
+# Neovim pane navigation
+keybind = command+h=text:\x1c\x0e\x17h
+keybind = command+j=text:\x1c\x0e\x17j
+keybind = command+k=text:\x1c\x0e\x17k
+keybind = command+l=text:\x1c\x0e\x17l
