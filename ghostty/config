@@ -15,4 +15,4 @@ keybind = command+escape=text:\x1c\x0e
 keybind = command+h=text:\x1c\x0e\x17h
 keybind = command+j=text:\x1c\x0e\x17j
 keybind = command+k=text:\x1c\x0e\x17k
-keybind = command+l=text:\x1c\x0e\x17l
+
